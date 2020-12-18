@@ -1,0 +1,41 @@
+c:\users\mohammad maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\bin\Debug\Final Restaurant Management System.exe
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\bin\Debug\Final Restaurant Management System.exe.config
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Deal_List_Staff.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Admin_Main_Page.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Deal_List_Admin.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Home_Delivery_Admin.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.LOGIN_FORM.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Menu_Module_List_Admin.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Order_List_Admin.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Staff_List_Admin.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Staff_Main_Page.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Menu_Module_List_Staff.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Home_Delivery_Staff.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Staff_List_Staff.resources
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.exe
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.pdb
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\bin\Debug\Final Restaurant Management System.pdb
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Maaz\documents\visual studio 2013\Projects\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Loading_Page.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\bin\Debug\Final Restaurant Management System.exe.config
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.exe
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.pdb
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\bin\Debug\Final Restaurant Management System.exe
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\bin\Debug\Final Restaurant Management System.pdb
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Deal_List_Staff.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Admin_Main_Page.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Deal_List_Admin.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Home_Delivery_Admin.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.LOGIN_FORM.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Menu_Module_List_Admin.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Order_List_Admin.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Staff_List_Admin.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Staff_Main_Page.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Menu_Module_List_Staff.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Home_Delivery_Staff.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Loading_Page.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Properties.Resources.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final_Restaurant_Management_System.Staff_List_Staff.resources
+D:\Object Oriented Programing\Projects all\Final Restaurant Management System\Final Restaurant Management System\obj\Debug\Final Restaurant Management System.csproj.GenerateResource.Cache
